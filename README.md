@@ -1,10 +1,8 @@
 - 👋 Olá, me chamo @nu-Bia.
 - 👀 Me interesso por tecnologia e programação.
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 Atualmente estou estudando programação web java no instituto PROA.
+- 💞️ Prentendo colaborar aqui na plataforma com a postagem da resolução de alguns exercicios de lógica de programação, propostos pelo professor Jailson.
+- E também com a publicação de códigos referentes a páginas e sites feitos em HTML, CSS e BOOTSTRAP. 
+- 📫 você pode entrar em contato comigo através das redes sociais.
 
-<!---
-nu-Bia/nu-Bia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
