@@ -7,6 +7,8 @@
 
 ![blog](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
+![blog](https://github-readme-stats.vercel.app/api/top-langs/?username={nu-Bia}&theme=blue-green)
+
 - 👋 Olá.
 - 🌼 Me chamo @nu-Bia.
 - 📅 Tenho 18 anos. 
