@@ -1,5 +1,5 @@
 [![blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/n%C3%BAbia-reis-005b92207/)
- 
+[![blog](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)] 
 - 👋 Olá.
 - 🌼 Me chamo @nu-Bia.
 - 📅 Tenho 18 anos. 
