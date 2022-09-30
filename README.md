@@ -1,3 +1,4 @@
+https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 - 👋 Olá.
 - 🌼 Me chamo @nu-Bia.
 - 📅 Tenho 18 anos. 
