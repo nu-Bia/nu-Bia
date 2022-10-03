@@ -1,7 +1,7 @@
 ## Seja bem vindo(a):heavy_heart_exclamation:
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nu-Bia&show_icons=true&theme=dracula)
 
 ## Possuo conhecimentos em :
 ![blog](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
