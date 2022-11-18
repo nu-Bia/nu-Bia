@@ -1,5 +1,11 @@
 ## Seja bem vindo(a):heavy_heart_exclamation:
-
+</div>
+  
+<br>
+<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&color=32b9a6&center=true&vCenter=true&lines=Seja+bem+vindo+ao+meu+perfil.">
+<!-- https://readme-typing-svg.herokuapp.com?font=Poppins&color=FF6F29&center=true&vCenter=true&lines=Sua+Limpeza+mais+valorizada+e+segura.+- -->
+</div>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nu-Bia&show_icons=true&theme=dracula)
 
