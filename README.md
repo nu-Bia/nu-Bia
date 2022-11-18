@@ -2,7 +2,7 @@
 </div>
   
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&color=32b9a6&center=true&vCenter=true&lines=Confira+minhas+contribuições+e+meus+projetos.">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&color=32b9a6&center=true&vCenter=true&lines=Sua+Limpeza+mais+valorizada+e+segura.+">
 <!-- https://readme-typing-svg.herokuapp.com?font=Poppins&color=FF6F29&center=true&vLeft=true&lines=Sua+Limpeza+mais+valorizada+e+segura.+- -->
 </div>
 
