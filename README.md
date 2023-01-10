@@ -1,3 +1,4 @@
+<div align="center">
 ## Seja bem vindo(a):heavy_heart_exclamation:
 </div>
   
@@ -9,7 +10,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nu-Bia&show_icons=true&theme=dracula)	
 
 ## Possuo conhecimentos em :
-[![blog](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![blog](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![blog](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![blog](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
 ![blog](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
