@@ -6,9 +6,12 @@
 <!-- https://readme-typing-svg.herokuapp.com?font=Poppins&color=FF6F29&center=true&vLeft=true&lines=Confira+minhas+contribuições.+- -->
 </div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nu-Bia&show_icons=true&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nu-Bia&show_icons=true&theme=dracula)	
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username={username}&theme=blue-green)
 
 ## Possuo conhecimentos em :
+[![blog](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![blog](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![blog](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
 ![blog](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -21,8 +24,9 @@
 ## Você pode me conhecer melhor através do :speech_balloon: :
 [![blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/n%C3%BAbia-reis-005b92207/)
 
+## entre em contato comigo pelo :
+[![blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/n%C3%BAbia-reis-005b92207/)
 
-
-
+[![blog]()
 
 
