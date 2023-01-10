@@ -1,6 +1,6 @@
-<div align="center">
+
 ## Seja bem vindo(a):heavy_heart_exclamation:
-</div>
+
   
 <div align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&color=32b9a6&center=true&vCenter=true&lines=confira+minhas+contribuições.+">
