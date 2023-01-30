@@ -1,4 +1,4 @@
-<h1 align="center"> ## Seja bem vindo(a):heavy_heart_exclamation:</h1>
+<h1 align="center"> Seja bem vindo(a):heavy_heart_exclamation:</h1>
 
 
   
